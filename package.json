@@ -1,0 +1,19 @@
+{
+  "name": "generator-thrsocket",
+  "version": "0.1.0",
+  "description": "",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "express": "^4.13.1",
+    "gulp": "^3.9.0",
+    "gulp-ejs": "^1.1.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-ts": "^0.2.0",
+    "yeoman-generator": "^0.17.7"
+  }
+}
